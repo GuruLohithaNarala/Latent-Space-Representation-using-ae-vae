@@ -49,6 +49,12 @@ A big thank you to **Nexthub Technologies** for curating this insightful and pra
 
 👤 Author
 Name:N.GuruLohitha
+
+
+
 Program: Generative AI by Nexthub Technologies
+
+
+
 Module: 1 — Latent Space Representation using AE & VAE
 
